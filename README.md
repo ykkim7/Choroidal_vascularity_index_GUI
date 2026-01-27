@@ -15,6 +15,7 @@ Subfield Analysis: Automatically calculates CVI for 1500μm, 3000μm, and 5000μ
 Batch Export: Saves results in a structured Excel format (.xlsx) and generates visualization grid images.
 
 📥 Installation
+
 Go to the Releases page.
 
 Download the latest CVI_Analyzer.exe.
