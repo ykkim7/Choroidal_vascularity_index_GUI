@@ -42,4 +42,4 @@ Calculate & Save: Click Calculate CVI & Save. The results will be stored in a ne
 📊 Analysis Parameters
 Binarization: Niblack Method (Window size: 25, k: -0.2)
 
-Despeckling: Small particles (< 20 pixels) are removed to reduce noise.
+Despeckling: Small particles (< 10 pixels) are removed to reduce noise.
