@@ -42,5 +42,5 @@ The exported `.xlsx` file includes the following parameters:
 
 
 ## 📥 Installation & Requirements
-* **Standalone Version**: Go to the [Releases] page and download `CVI_Analyzer.exe`. (No Python installation required).
+* **Standalone Version**: Go to the [Releases](https://github.com/ykkim7/Choroidal_vascularity_index_GUI/releases/tag/v2.2) page and download `CVI_GUI_v2_2.exe`. (No Python installation required for the .exe version).
 * **Source Version**: Requires Python 3.9, `OpenCV`, `PyQt5`, `scikit-image`, `scipy`, and `openpyxl`.
